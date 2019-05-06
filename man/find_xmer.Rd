@@ -1,5 +1,5 @@
-\name{find_xmer}
-\alias{find_xmer}
+\name{FindXmer}
+\alias{FindXmer}
 \title{
 Organizes output from read.fasta()
 }
@@ -28,4 +28,4 @@ Johnathan Lo and Heath Blackmon
 }
 
 \keyword{ microsatellites }
-\keyword{ fasta file analysis }
+\keyword{ FASTA file analysis }
